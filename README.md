@@ -41,7 +41,7 @@
   <tr>
     <td>
        <a href="https://github.com/nitin-pandita/Machine-learning/graphs/contributors" align="center">
-          <img src="https://contrib.rocks/image?repo=nitin-pandita/Nitin-Fashionwear" />
+          <img src="https://contrib.rocks/image?repo=nitin-pandita/Machine-Learning" />
        </a>
     </td>
   </tr>
