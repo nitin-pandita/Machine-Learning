@@ -1,4 +1,4 @@
-![Machine Learning](https://socialify.git.ci/nitin-pandita/Nitin-Fashionwear/image?description=1&descriptionEditable=A%20place%20for%20Developers&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![Machine Learning](https://socialify.git.ci/nitin-pandita/Machine-Learning/image?description=1&descriptionEditable=A%20place%20for%20Developers&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 <p align="center">
   <a href="https://github.com/nitin-pandita/Machine-Learning.git">
