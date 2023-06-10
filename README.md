@@ -12,25 +12,25 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=nitin-pandita%2FNitin-Fashionwear%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/nitin-pandita/Nitin-Fashionwear
+![Visitors](https://api.visitorbadge.io/api/visitors?path=nitin-pandita%2FMachine-Learning%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/nitin-pandita/Machine-Learning
 )
-![GitHub Repo stars](https://img.shields.io/github/stars/nitin-pandita/Nitin-Fashionwear
+![GitHub Repo stars](https://img.shields.io/github/stars/nitin-pandita/Machine-Learning
 )
-![GitHub contributors](https://img.shields.io/github/contributors/nitin-pandita/Nitin-Fashionwear
+![GitHub contributors](https://img.shields.io/github/contributors/nitin-pandita/Machine-Learning
 )
-![GitHub last commit](https://img.shields.io/github/last-commit/nitin-pandita/Nitin-Fashionwear
+![GitHub last commit](https://img.shields.io/github/last-commit/nitin-pandita/Machine-Learning
 )
   
-![GitHub repo size](https://img.shields.io/github/repo-size/nitin-pandita/Nitin-Fashionwear)
+![GitHub repo size](https://img.shields.io/github/repo-size/nitin-pandita/Machine-Learning)
 
-![Github](https://img.shields.io/github/license/nitin-pandita/Nitin-Fashionwear)
-![GitHub issues](https://img.shields.io/github/issues/nitin-pandita/Nitin-Fashionwear
+![Github](https://img.shields.io/github/license/nitin-pandita/Machine-Learning)
+![GitHub issues](https://img.shields.io/github/issues/nitin-pandita/Machine-Learning
 )
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/nitin-pandita/Nitin-Fashionwear)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nitin-pandita/Nitin-Fashionwear
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/nitin-pandita/Machine-Learning)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nitin-pandita/Machine-Learning
 )
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/nitin-pandita/Nitin-Fashionwear
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/nitin-pandita/Machine-Learning
 )
  </p>
 </div>
