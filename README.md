@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td>
-       <a href="https://github.com/nitin-pandita/Nitin-Fashionwear/graphs/contributors" align="center">
+       <a href="https://github.com/nitin-pandita/Machine-learning/graphs/contributors" align="center">
           <img src="https://contrib.rocks/image?repo=nitin-pandita/Nitin-Fashionwear" />
        </a>
     </td>
